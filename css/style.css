@@ -69,6 +69,7 @@ header main .menu .text {
 }
 header main .menu .number {
   color: #6B7082;
+  text-align: center;
   font-size: 18px;
   font-weight: 400;
 }
